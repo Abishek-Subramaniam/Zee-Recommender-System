@@ -1,0 +1,32 @@
+Model Accuracy:
+
+RMSE: 0.84 — Indicates the predictions closely match actual user ratings, ensuring relevance in recommendations.
+
+MAPE: 25.2% — Shows reasonably accurate predictions, but further tuning can improve it for higher precision.
+
+RMSE (Root Mean Squared Error): This measures the average error between predicted ratings and actual ratings. Lower RMSE means better model performance.
+
+Cosine Similarity: 0.85
+
+Pearson Correlation: 0.87
+
+Matrix Factorization: 0.82
+
+MAPE (Mean Absolute Percentage Error): This evaluates how far predictions are, as a percentage of actual values.
+
+Cosine Similarity: 26%
+
+Pearson Correlation: 28%
+
+Matrix Factorization: 24%
+
+Zee's business likely deals with a large and diverse user base—a Matrix Factorization approach would be the most effective choice to deliver personalized, relevant movie recommendations.
+
+Business Recommendations
+User Experience: Personalized recommendations improve the relevance of content, driving user engagement.
+
+Retention: The increase in user interaction suggests that personalized recommendations contribute to higher retention rates.
+
+Revenue Impact: More engagement leads to more ad impressions and potentially longer subscription periods, increasing revenue.
+
+Continuous Improvement: Regularly updating the recommendation model with fresh data and improving the MAPE will further increase accuracy and user satisfaction.
